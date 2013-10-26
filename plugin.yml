@@ -1,0 +1,11 @@
+name: DarkLocker
+author: Celeo
+version: 1.0.0.1
+description: Chest-locking plugin
+website: http://darktidegames.com/
+main: com.darktidegames.celeo.DarkLocker
+depends: [Empyrean]
+commands:
+  lock:
+    usage: /<command> [parameter(s)]
+    description: Plugin commands
